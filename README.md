@@ -17,12 +17,12 @@ ARCH LINUX
 
 Instalación:
 
-git clone
+git clone https://github.com/piratainformatico2/URLSHARK
 
 gem install lolcat
 
 apt-get update && apt-get upgrade
 
-cd AcortShark
+cd URLSHARK
 
 bash Acortador.sh
